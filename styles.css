@@ -112,6 +112,12 @@
     }
 }
 
+@media (max-width: 414px) {
+    .center-box {
+        width: 80%;
+    }
+}
+
 
 @media (max-width: 375px) {
     .text h2 {
