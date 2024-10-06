@@ -116,6 +116,19 @@
     .center-box {
         width: 80%;
     }
+
+    .text h2 {
+        font-size: 22px;
+    }
+
+    .text p {
+        font-size: 15px;
+    }
+
+    .attribution {
+        font-size: 10px;
+    }
+
 }
 
 
