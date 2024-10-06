@@ -112,7 +112,7 @@
     }
 }
 
-@media (max-width: 390px) {
+/* @media (max-width: 390px) {
     .text h2 {
         font-size: 20px;
     }
@@ -123,7 +123,7 @@
     .text p {
         font-size: 14px;
     }
-}
+} */
 
 
 @media (max-width: 375px) {
